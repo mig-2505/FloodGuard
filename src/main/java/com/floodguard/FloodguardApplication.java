@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class FloodguardApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(FloodguardApplication.class, args);
 	}
-
 }

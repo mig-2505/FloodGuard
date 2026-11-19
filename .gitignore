@@ -1,0 +1,15 @@
+# Compilacao Maven
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Banco H2 local
+data/
+*.mv.db
+*.trace.db
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
